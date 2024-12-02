@@ -1,6 +1,6 @@
 # KSU SWE 3643 Software Testing and Quality Assurance Semester Project: Web-Based Calculator
 
-You will find a web-based calculator that performs calculation such has mean, standard deviations and linear regressions.
+You will find a web-based calculator that performs statistic calculation such has mean, standard deviations and linear regressions.
 It includes back and frontend logic with unit tests, a user interface, end-to-end playwright testing and documentation and videos
 to guide usage and testing.
 
