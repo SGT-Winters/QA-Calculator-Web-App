@@ -8,14 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="calculator-logic" />
         <module name="e2e" />
-        <module name="SpringBoot" />
         <module name="tests" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="SpringBoot" options="-parameters" />
+      <module name="SpringBoot" options="" />
     </option>
   </component>
 </project>
